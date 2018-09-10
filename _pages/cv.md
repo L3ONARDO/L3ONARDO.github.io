@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]]((http://l3onardo.github.io/files/paper1.pdf))
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://l3onardo.github.io/files/paper1.pdf)

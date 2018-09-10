@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Awards and Honors
 ======
-* Merit Student Scholarship, Macao Polytechnic Institute, 2014. <a href="/talkmap.html">See a map of all the places I've given a talk!</a> [link](http://l3onardo.github.io/files/paper1.pdf)
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Merit Student Scholarship**, awarded by Macao Polytechnic Institute, 2014. [(link)](http://l3onardo.github.io/files/paper1.pdf)
+* **Honor Academy Student**, Big Data Program, Eindhoven University of Technology, 2015-2017. [(link)](http://l3onardo.github.io/files/paper1.pdf)
+* **EIT Digital Excellence Scholarship**, awarded by EIT Digital, 2017. [(link)](http://l3onardo.github.io/files/paper1.pdf)
+* **1st rank in Speech Classification Data Mining Challenge**, OpenML, 2017. [(link)](https://www.openml.org/t/167132#!people)
+* **EIT Digital Excellence Scholarship**, awarded by EIT Digital, 2018. [(link)](http://l3onardo.github.io/files/paper1.pdf)

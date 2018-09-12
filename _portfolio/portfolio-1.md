@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
+title: "Sorting Machine"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The goal of this project is to build a sorting machine that is able to separate small objects, plastic discs that may be either black or white, into two sets: the black discs and the white discs. For this purpose the machine is equipped with, among other things, one or two conveyor belts to transport the discs inside the machine. Initially the discs to be sorted are contained in a storage tube; the machine will have a mechanism to deposit one disc at a time onto a conveyer belt.
+
+Language Used: Java, PP2 Assembly code
